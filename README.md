@@ -37,4 +37,3 @@ This repository contains all the code samples, practice projects, and advanced e
 - DevOps & CI/CD with GitHub Actions
 
 ---
-*Created by Manus AI for the Advanced Python Programming Course.*
